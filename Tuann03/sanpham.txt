@@ -1,0 +1,3 @@
+Product{maso=a1, ten=a, gia=10.0}
+Product{maso=b1, ten=b, gia=20.0}
+Product{maso=c1, ten=c, gia=30.0}
